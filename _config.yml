@@ -1,0 +1,104 @@
+# Site
+repository: razaulazam/razaulazam.github.io
+favicon: webicon.svg
+
+# Personal info
+name: Raza Ul Azam
+title: Machine Learning Engineer
+email: razaulazam@outlook.com
+phone: +49 1522 2002178
+
+# Dark Mode (true/false/never)
+darkmode: never
+
+# Social links
+download_resume: true
+github_username: razaulazam
+linkedin_username: raza-ul-azam-ba590799
+
+#stackoverflow_username: jekyll
+#twitter_username: jekyll
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
+#orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+#additional_links:
+#- title: Download Recommendation Letters
+#  icon: fab fa-creative-commons-shares
+#  url: https://razaulazam.github.io/rec_azam.pdf
+
+# - title: another link
+#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: img_cv.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hello, I am Raza. I am a **Machine Learning Engineer** with over **1.5 years** of experience. I was born in Pakistan but I am currently residing in a city called Stuttgart in Germany.
+  I am a native speaker of Urdu and English (near native). I can also speak German at a basic level but I am persistently learning and improving day by day.
+
+  I am about to finish a **Master of Science degree in Communications and Multimedia engineering** (with specialization in **Machine Learning**) from one of the prestigious
+  universities in Germany called **FAU Erlangen-Nuremberg**. Upon the successful completion of my degree, I am looking forward to join a **full-time Machine Learning Engineer/Data Scientist** role.
+
+  I have been profoundly motivated by the power of **Machine Learning**. Thus, I love developing **efficient** yet **scalable** intelligent algorithms for a variety of application areas. During my **professional** as well as my **academic** career,
+  I have essentially worked with <mark>Python</mark>, <mark>C++</mark>, <mark>R</mark>, <mark>MATLAB</mark> and <mark>SQL</mark>.
+
+  I am enthusiastic about **learning new programming languages**, **keeping myself updated with the current advancements in Machine Learning community**, **new technologies** and **writing efficient as well as modular code**. Consequently, I dedicate a portion of my free time
+  taking online courses on **Cloud computing services** (<mark>AWS</mark>), **Data structures**, **Databases**, **Big data technologies**(<mark>Spark</mark>) and expanding my insight in the **programming languages** which I already know.
+
+  My **Research Interests** are:
+    - Applied Machine Learning
+    - Explainable AI
+    - Improving the performance and robustness of Machine learning algorithms and Neural Networks
+    - Uncertainty estimation in Deep Learning
+    - Supervised, Unsupervised and Reinforcement Learning
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+# more_content: | # this will include new lines to allow paragraphs
+#   Add additional stuff here
+
+# Footer
+footer_show_references: true
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

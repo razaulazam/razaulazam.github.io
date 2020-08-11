@@ -1,0 +1,50 @@
+# Education List
+- layout: left
+  name: Friedrich Alexander Universitaet Erlangen-Nuremberg (FAU), Germany
+  dates: October 2017 - Present
+  qualification: MSc. Communications and Multimedia Engineering (CME)
+  #quote: >
+  #  Some quote
+  description: | # this will include new lines to allow paragraphs
+    - **_CGPA:_** *1.8/5.0 (German Grading System)*
+
+    - **Specialization:** Machine Learning
+
+    - **Important courses:**
+      - Machine Learning (Pattern Recognition, Pattern Analysis)
+      - Deep Learning
+      - Statistical Signal Processing
+      - Image and Video Compression 
+      - AWS Machine Learning (Udacity online course)
+      - MySQL bootcamp (Udemy online course)
+      - Machine Learning (Stanford online course)
+    
+    - [**Download Transcript of Records**](https://razaulazam.github.io/transcript_masters.pdf)
+    
+    
+- layout: left
+  name: Middle East Technical University, Turkey
+  dates: August 2018 - September 2018
+  qualification: BEST Summer Course - Artificial Intelligence (AI)
+  #quote: >
+  #  Some quote
+  description: | # this will include new lines to allow paragraphs
+    - Summer course in which **only one** student (national or international) from every European country gets selected.
+
+    - [**Download Course Completion Certificate**](https://razaulazam.github.io/best_summer_course.pdf)
+
+
+- layout: left
+  name: Lahore University of Management Sciences (LUMS), Pakistan
+  dates: August 2013 - May 2017
+  qualification: BS. Electrical Engineering
+  #quote: >
+  #  Some quote
+  description: | # this will include new lines to allow paragraphs
+    - **_CGPA:_** *1.4/5.0 (German Grading System)*
+
+    - **Bachelor Thesis:** *Autonomous Gas Pipeline Inspection using UAV*
+      - Developed an **autonomous** UAV (MikroKopter) using **Computer Vision** algorithms (for camera and laser scanners) and **Sensor fusion** concepts
+      - Tools Used: <mark>Robot Operating System (ROS)</mark> <mark>C/C++</mark> <mark>Linux</mark> <mark>MATLAB</mark>
+    - [**Download Transcript of Records**](https://razaulazam.github.io/transcript_bacherlors.pdf)
+    - [**Download Degree Certificate**](https://razaulazam.github.io/bachelors_degree.pdf)

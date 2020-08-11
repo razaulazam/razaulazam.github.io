@@ -1,0 +1,66 @@
+# Experience List
+- layout: left
+  company: Bosch Center for Artificial Intelligence (BCAI) (Germany)
+  link: https://www.bosch-ai.com/
+  job_title: Master's Thesis (Machine Learning)
+  dates: January 2020 - June 2020
+  #quote: >
+  #  Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    - Worked on **Computer vision** problems - [Image classification](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+      and Video frames [semantic segmentation](https://arxiv.org/pdf/1802.02611.pdf)
+    - Tasks performed:
+      - Implemented several deep Neural networks from scratch in **PyTorch** as well as **TensorFlow** and performed scaling for **accuracy** (3%) and **speed** (5x) improvements
+      - Computed **uncertainty** estimates from the models using concepts from **Bayesian probability theory**, **statistics** and **linear algebra**
+      - Identified **complex structures** in the data that impact models performance
+      - Designed a **new classifier** for detecting **extraneous** and **noisy** data and prototyped using different **Machine learning** models in Scikit-learn (94% accuracy)
+      - Used Git for **collaborating** internally and followed best Python **programming practices**
+    - Tools Used: <mark>Python 3.7</mark> <mark>PyTorch</mark> <mark>TensorFlow</mark> <mark>Scikit-learn</mark> <mark>OpenCV</mark>
+      <mark>Pandas</mark> <mark>Linux/Unix shell</mark> <mark>Git</mark> <mark>Imblearn</mark> <mark>Seaborn</mark>
+
+- layout: left
+  company: Robert Bosch GmbH
+  link: https://www.bosch.com/
+  job_title: Intern (Machine Learning)
+  dates: April 2019 - September 2019
+  #quote: >
+  #  Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    - Worked on **anomaly detection** techniques while processing video frames
+    - Tasks performed:
+      - Created **custom** Keras layers for **quantizing** Neural Networks and injecting **faults**
+      - Created custom Keras layers for detecting faults and achieved **98% accuracy**
+      - Implemented **anomaly detection** methods based on **Recurrent networks** and **Autoencoders** in TensorFlow and Keras and **optimized** using **Bayesian** techniques
+      - Detected anomalies while processing **time-series data** (**90% accuracy**)
+    - Tools Used: <mark>Python 3.7</mark> <mark>Keras</mark> <mark>TensorFlow</mark> <mark>Scikit-learn</mark> <mark>Pandas</mark> <mark>Linux/unix shell</mark> <mark>Git</mark>
+                    <mark>Seaborn</mark> <mark>Scipy</mark>
+
+- layout: left
+  company: Schaeffler Technologies AG & Co. KG
+  link: https://www.schaeffler.com/
+  job_title: Working Student (Machine Learning & Optimization)
+  dates: August 2018 - January 2019
+  #quote: >
+  #  Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    - Worked on **parameter optimization** and **data analytics** tasks
+    - Tasks performed:
+      - Implemented different variants of **Evolutionary algorithms** in C++14
+      - Developed **CUDA kernels** for speed efficiency (**6x**)
+      - Developed a **GUI application** for visualizing the data in MATLAB
+      - Fitted **Machine learning** models on different practical automotive datasets using Scikit-learn in Python
+    - Tools Used: <mark>C++14</mark> <mark>Python 3.7</mark> <mark>SQL</mark> <mark>TensorFlow</mark> <mark>MATLAB</mark> <mark>CUDA</mark> <mark>Scikit-learn</mark> <mark>Pandas</mark>
+
+- layout: left
+  company: Fraunhofer IIS
+  link: https://www.iis.fraunhofer.de/
+  job_title: Working Student (Software Development)
+  dates: April 2018 - July 2018
+  #quote: >
+  #  Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    - Worked on extension of an **audio rendering** library - MPEG-H project
+    - Tasks performed:
+      - Improved **rendering algorithms** and added **new** functionalities in C++14
+      - Performed test **simulations** on MATLAB and in a **real** environment
+    - Tools Used: <mark>C++14</mark> <mark>MATLAB</mark> <mark>Git</mark>
