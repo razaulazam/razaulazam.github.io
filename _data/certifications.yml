@@ -6,3 +6,13 @@
   description: | # this will include new lines to allow paragraphs
     - Online course which taught the fundamentals of **Amazon Web Services (AWS)** cloud computing service for developing **Machine learning** models.
     - [**View Course Completion Certificate**](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/16fde1ae-e0e4-4d7d-a5cb-70be84936aeb.pdf?utm_campaign=sch_600_auto_ndxxx_aws-ml-completed_global&utm_source=blueshift&utm_medium=email&utm_content=sch_600_auto_ndxxx_aws-ml-complet)
+
+
+- layout: left
+  name: Intermediate Pandas Python Library for Data Science
+  qualification: Coursera - September 2020
+  #quote: >
+  #  Some quote
+  description: | # this will include new lines to allow paragraphs
+    - Online course which taught the important concepts for handling data with **Pandas**.
+    - [**View Course Completion Certificate**](https://www.coursera.org/account/accomplishments/certificate/23D7HV8W9WR8)
