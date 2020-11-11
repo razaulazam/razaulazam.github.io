@@ -17,7 +17,7 @@
   github: razaulazam/Machine-Learning-Algorithms
 
   description: | # this will include new lines to allow paragraphs
-    - Conceptually implemented different **Machine learning** algorithms in C++14
+    - Conceptually implemented different **Machine learning** algorithms in **C++14**
     - Developed **Mean Shift clustering** method and feature selection algorithms like **PCA** and **IsoMap**
     - Implemented famous **Random Forest** method, and **Viterbi** algorithm used with **Hidden Markov Models (HMM)**
     - Tools Used: <mark>C++14</mark> <mark>Visual Studio</mark>
@@ -30,7 +30,7 @@
   github: razaulazam/Data-Science-Sample-Project
 
   description: | # this will include new lines to allow paragraphs
-    - Performed extensive **data analysis** on a sample dataset using Pandas and Seaborn library
+    - Performed extensive **data analysis** on a sample dataset using **Pandas** and **Seaborn** library
     - Identified relevant Machine learning algorithms for the target goal
     - **Prototyped** the chosen algorithms using Scikit-learn
     - Tools Used: <mark>Python 3.7</mark> <mark>Pandas</mark> <mark>Seaborn</mark> <mark>Scikit-learn</mark>
@@ -43,6 +43,6 @@
   github: razaulazam/Simple-Text-Classification
 
   description: | # this will include new lines to allow paragraphs
-    - Implemented a **text classification** model in TensorFlow 2.0
+    - Implemented a **text classification** model in **TensorFlow 2.0**
     - Used **pre-trained models** in TensorFlow Hub for computing **embedding vectors** for the sentences
     - Tools Used: <mark>Python 3.7</mark> <mark>Pandas</mark> <mark>TensorFlow</mark>
