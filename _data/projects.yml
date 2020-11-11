@@ -1,11 +1,48 @@
 - layout: top-middle
   name: Deep Learning Programming Framework
-  link: https://github.com/razaulazam/DeepLearningFramework
-  github: razaulazam/DeepLearningFramework
-  quote: >
-    Collection of Wikis Containing Articles on Software Engineering Fundamentals and Technologies
+  link: https://github.com/razaulazam/Deep-Learning-Framework
+  github: razaulazam/Deep-Learning-Framework
+
   description: | # this will include new lines to allow paragraphs
-    - I developed these collection of community driven wikis to serve as a knowledge management tool to aid learning efforts
-    - A wiki is a collection of arranged web page serving static content (learning notes, research) written in markdown files
-    - These wikis are arranged in a hierarchy using subwikis as well in order to logically group related topics
-    - Tools Used: <mark>React</mark> <mark>Docusaurus2</mark>
+    - Conceptually implemented commonly used layers like Convolutional, Pooling, Linear, LSTM, Softmax and many others
+    - Implemented different Neural network initialization and regularization schemes
+    - Implemented several optimizers like SGD, RMSProp and ADAM used in Machine learning
+    - Tools Used: <mark>Python 3.7</mark> <mark>Visual Studio (VS) Code</mark>
+
+
+
+- layout: top-middle
+  name: Machine Learning Algorithms
+  link: https://github.com/razaulazam/Machine-Learning-Algorithms
+  github: razaulazam/Machine-Learning-Algorithms
+
+  description: | # this will include new lines to allow paragraphs
+    - Conceptually implemented different Machine learning algorithms in C++14
+    - Developed Mean Shift clustering method and feature selection algorithms like PCA and IsoMap
+    - Implemented famous Random Forest method, and Viterbi algorithm used with Hidden Markov Models (HMM)
+    - Tools Used: <mark>C++14</mark> <mark>Visual Studio</mark>
+
+
+
+- layout: top-middle
+  name: Data Science Project
+  link: https://github.com/razaulazam/Data-Science-Sample-Project
+  github: razaulazam/Data-Science-Sample-Project
+
+  description: | # this will include new lines to allow paragraphs
+    - Performed extensive data analysis on a sample dataset using Pandas and Seaborn library
+    - Identified relevant Machine learning algorithms for the target goal
+    - Prototyped the chosen algorithms using Scikit-learn
+    - Tools Used: <mark>Python 3.7</mark> <mark>Pandas</mark> <mark>Seaborn</mark> <mark>Scikit-learn</mark>
+
+
+
+- layout: top-middle
+  name: Text Classification
+  link: https://github.com/razaulazam/Simple-Text-Classification
+  github: razaulazam/Simple-Text-Classification
+
+  description: | # this will include new lines to allow paragraphs
+    - Implemented a text classification model in TensorFlow 2.0
+    - Used pre-trained models in TensorFlow Hub for computing embedding vectors for the sentences
+    - Tools Used: <mark>Python 3.7</mark> <mark>Pandas</mark> <mark>TensorFlow</mark>
