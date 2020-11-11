@@ -6,7 +6,7 @@
   #quote: >
   #  Some quote
   description: | # this will include new lines to allow paragraphs
-    - **_CGPA:_** *1.8/5.0 (German Grading System)*
+    - **_CGPA:_** *1.6/5.0 (German Grading System)*
 
     - **Specialization:** Machine Learning
 
@@ -15,9 +15,6 @@
       - Deep Learning
       - Statistical Signal Processing
       - Image and Video Compression
-      - AWS Machine Learning (Udacity online course)
-      - MySQL bootcamp (Udemy online course)
-      - Machine Learning (Stanford online course)
 
     - [**View Transcript of Records**](https://razaulazam.github.io/transcript_masters.pdf)
 
@@ -41,7 +38,7 @@
   #quote: >
   #  Some quote
   description: | # this will include new lines to allow paragraphs
-    - **_CGPA:_** *1.4/5.0 (German Grading System)*
+    - **_CGPA:_** *1.5/5.0 (German Grading System)*
 
     - **Bachelor Thesis:** *Autonomous Gas Pipeline Inspection using UAV*
       - Developed an **autonomous** UAV (MikroKopter) using **Computer Vision** algorithms (for camera and laser scanners) and **Sensor fusion** concepts
