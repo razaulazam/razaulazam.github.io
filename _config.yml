@@ -47,23 +47,20 @@ twitter_username: RazaUlAzam2
 # about_title: About Me (Use this to override about section title)
 about_profile_image: img_cv.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I am Raza. I am a **Machine Learning Engineer** with over **1.5 years** of experience. I was born in Pakistan but I am currently residing in a city called Stuttgart in Germany.
+  Hello, I am Raza. I am a **Deep Learning enthusiast** with over **1.5 years** of experience in this particular field. I was born in Pakistan but I am currently residing in a city called Stuttgart in Germany.
   I am a native speaker of Urdu and English (near native). I can also speak German at a basic level but I am persistently learning and improving day by day.
 
   I have finished a **Master of Science degree in Communications and Multimedia engineering** (with specialization in **Machine Learning**) from one of the prestigious
-  universities in Germany called **FAU Erlangen-Nuremberg**. Now, I am looking forward to join a **full-time Machine Learning Engineer/Data Scientist** role.
+  universities in Germany called **FAU Erlangen-Nuremberg**. Over the course of my Master studies, I have researched on developing intelligent (yet scalable) learning algorithms for various Computer vision (primarily) problems at hand.
 
-  I have been profoundly motivated by the power of **Machine Learning**. Thus, I love developing **efficient** yet **scalable** intelligent algorithms for a variety of application areas. During my **professional** as well as my **academic** career,
-  I have essentially worked with <mark>Python</mark>, <mark>C++</mark>, <mark>R</mark>, <mark>MATLAB</mark> and <mark>SQL</mark>.
-
-  I am enthusiastic about **learning new programming languages**, **keeping myself updated with the current advancements in Machine Learning community**, **new technologies** and **writing efficient as well as modular code**. Consequently, I dedicate a portion of my free time
+  Speaking a bit about myself, I like **learning new programming languages**, **keeping myself updated with the current advancements in Machine Learning community**, **new technologies** and **writing efficient as well as modular code**. Consequently, I dedicate a portion of my free time
   taking online courses on **Cloud computing services** (<mark>AWS</mark>), **Data structures**, **Databases**, **Big data technologies**(<mark>Spark</mark>) and expanding my insight in the **programming languages** which I already know.
 
   My **Research Interests** are:
-    - Supervised and Reinforcement Learning.
+    - Deep learning based Computer vision applications.
+    - Supervised Learning.
     - Uncertainty estimation in Deep Learning.
     - Explainable AI.
-    - Deep learning based Computer vision applications.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
