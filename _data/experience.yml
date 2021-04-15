@@ -1,6 +1,17 @@
 # Experience List
+
 - layout: left
-  company: Bosch Center for Artificial Intelligence (BCAI) (Germany)
+  company: FARO Technologies Inc.
+  link: https://www.faro.com/de-DE
+  job_title: AI R&D Scientist
+  dates: February 2020 - Present
+  #quote: >
+  #  Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    - Researching/Implementing intelligent learning algorithms for various Computer vision problems
+      
+- layout: left
+  company: Bosch Center for Artificial Intelligence (BCAI)
   link: https://www.bosch-ai.com/
   job_title: Master's Thesis (Machine Learning)
   dates: January 2020 - June 2020
